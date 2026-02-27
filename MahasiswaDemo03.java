@@ -1,4 +1,3 @@
-package Jobsheet3;
 import java.util.Scanner;
 public class MahasiswaDemo03 {
     public static void main(String[] args) {
